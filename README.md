@@ -49,8 +49,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=K3RZH&show_icons=true&hide_border=true&bg_color=000000&title_color=E0121B&icon_color=E0121B&text_color=e5e5e5&border_color=3a0000&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3RZH&layout=compact&hide_border=true&bg_color=000000&title_color=E0121B&text_color=e5e5e5&border_color=3a0000"/>
+<img height="165" src="./profile/stats.svg"/>
+<img height="165" src="./profile/top-langs.svg"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=K3RZH&background=000000&border=330000&stroke=E0121B&ring=E0121B&fire=E0121B&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=E0121B&sideLabels=999999&dates=888888"/>
 
