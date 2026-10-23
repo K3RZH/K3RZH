@@ -16,7 +16,7 @@
 
 ### Projects
 
-- 🚢 **BulBulShip** — website for a boat-house rental company. In active development, not public yet.
+- 🚢 <a href="https://bulbulship.ru"><b>bulbulship.ru</b></a> — website for a boat-house rental company. In active development, not public yet.
 
 <br>
 
