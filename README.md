@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,55:8B0000,100:E0121B&height=220&section=header&text=Hi,%20I'm%20Artem&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Frontend%20developer%20in%20the%20making&descAlignY=62&descSize=18&stroke=E0121B&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,55:8B0000,100:E0121B&height=300&section=header&text=Hey,%20I'm%20Artem%20👋&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Frontend%20developer%20in%20the%20making&descAlignY=72&descSize=24&stroke=E0121B&strokeWidth=2" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E0121B&center=true&vCenter=true&width=700&lines=Frontend+developer+in+the+making;Learning+Python+%26+Rust+next;Building+real+projects%2C+not+tutorials" alt="Typing intro" />
 
 </div>
 
