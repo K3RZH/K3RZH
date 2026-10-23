@@ -74,7 +74,7 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=E0121B)](https://t.me/kerzhartem)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=E0121B)](mailto:kerzhentsev11@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=E0121B)](mailto:kerzhartem@gmail.com)
 
 </div>
 
