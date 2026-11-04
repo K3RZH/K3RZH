@@ -39,7 +39,7 @@ Team commercial project, live in production since autumn 2026. Responsive multi-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-[![BEM Method](https://img.shields.io/badge/BEM%20Method-1A1A1A?style=for-the-badge)](https://en.bem.info/methodology/)
+[![BEM Method](https://img.shields.io/badge/BEM%20Method-1A1A1A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI%2BPHJlY3QgeD0iMi41IiB5PSIyLjUiIHdpZHRoPSIxOSIgaGVpZ2h0PSIxOSIgcng9IjMiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjciIHk9IjciIHdpZHRoPSI2IiBoZWlnaHQ9IjYiIHJ4PSIxIiBmaWxsPSJ3aGl0ZSIvPjxjaXJjbGUgY3g9IjE2LjUiIGN5PSIxNi41IiByPSIyIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg%3D%3D)](https://en.bem.info/methodology/)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
