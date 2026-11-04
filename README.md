@@ -82,7 +82,6 @@ Team commercial project, live in production since autumn 2026. Responsive multi-
 <div align="center">
 
 <img height="165" src="./profile/stats.svg"/>
-<img height="165" src="./profile/top-langs.svg"/>
 
 </div>
 
